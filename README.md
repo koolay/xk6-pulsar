@@ -8,7 +8,7 @@
 ❯ go install go.k6.io/xk6/cmd/xk6@latest
 
 # build k6
-❯ xk6 build --with gitlab.mypaas.com.cn/fast/k6x/pls=.
+❯ xk6 build --with github.com/koolay/xk6-pulsar=.
 
 ```
 
